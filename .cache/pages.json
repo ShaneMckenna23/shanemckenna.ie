@@ -42,18 +42,18 @@
         "path": "/404/"
     },
     {
+        "componentChunkName": "component---src-pages-about-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "about.json",
+        "path": "/about/"
+    },
+    {
         "componentChunkName": "component---src-pages-contact-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "contact.json",
         "path": "/contact/"
-    },
-    {
-        "componentChunkName": "component---src-pages-index-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "index.json",
-        "path": "/"
     },
     {
         "componentChunkName": "component---src-pages-404-jsx",
@@ -63,10 +63,17 @@
         "path": "/404.html"
     },
     {
-        "componentChunkName": "component---src-pages-about-jsx",
+        "componentChunkName": "component---src-pages-index-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "about.json",
-        "path": "/about/"
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "123.json",
+        "path": "/123"
     }
 ]

@@ -8,7 +8,7 @@
       "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1515113773646,
+      "updatedAt": 1515116668867,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4964bb4eadbf2d990c380dd5bed333f1",
+        "contentDigest": "32edd67877fe8a9a1f23e755faf46fdf",
         "owner": "internal-data-bridge"
       }
     },
@@ -1613,12 +1613,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-05T00:56:09.197Z",
+      "buildTime": "2018-01-05T01:33:28.226Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "81454ea1d5c6736e8d0abae76d624eac",
+        "contentDigest": "fabd26f680bd87dac40f1c5f8f6f4968",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1628,7 +1628,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "10232ae576e786b83dd5acf896dd95f6",
+        "contentDigest": "3ec926d1f18277eccb2ca06a0870ee01",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1638,9 +1638,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-01-05T00:11:44.172Z",
-      "accessTime": "2018-01-05T00:11:44.172Z",
-      "changeTime": "2018-01-05T00:11:44.172Z",
+      "modifiedTime": "2018-01-05T01:33:18.594Z",
+      "accessTime": "2018-01-05T01:33:18.594Z",
+      "changeTime": "2018-01-05T01:33:18.594Z",
       "birthTime": "2018-01-05T00:11:44.142Z",
       "root": "C:/",
       "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content",
@@ -1655,13 +1655,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474979305240,
-      "atimeMs": 1515111104172.251,
-      "mtimeMs": 1515111104172.251,
-      "ctimeMs": 1515111104172.251,
+      "atimeMs": 1515115998593.7754,
+      "mtimeMs": 1515115998593.7754,
+      "ctimeMs": 1515115998593.7754,
       "birthtimeMs": 1515111104142.2058,
-      "atime": "2018-01-05T00:11:44.172Z",
-      "mtime": "2018-01-05T00:11:44.172Z",
-      "ctime": "2018-01-05T00:11:44.172Z",
+      "atime": "2018-01-05T01:33:18.594Z",
+      "mtime": "2018-01-05T01:33:18.594Z",
+      "ctime": "2018-01-05T01:33:18.594Z",
       "birthtime": "2018-01-05T00:11:44.142Z"
     },
     "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25 absPath of file": {
@@ -1923,7 +1923,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b98be78c7ccb8b29ae1f1436d9afd416",
+        "contentDigest": "106431643cefe73c57431243349d2ccf",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1932,11 +1932,11 @@
       "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md",
       "relativePath": "2017-10-28/index.md",
       "extension": "md",
-      "size": 605,
-      "prettySize": "605 B",
-      "modifiedTime": "2018-01-04T22:08:07.879Z",
+      "size": 178,
+      "prettySize": "178 B",
+      "modifiedTime": "2018-01-05T01:38:13.774Z",
       "accessTime": "2018-01-05T00:11:44.178Z",
-      "changeTime": "2018-01-04T22:08:07.879Z",
+      "changeTime": "2018-01-05T01:38:13.774Z",
       "birthTime": "2018-01-05T00:11:44.178Z",
       "root": "C:/",
       "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28",
@@ -1952,12 +1952,12 @@
       "rdev": 0,
       "ino": 281474979305251,
       "atimeMs": 1515111104178.294,
-      "mtimeMs": 1515103687878.709,
-      "ctimeMs": 1515103687878.709,
+      "mtimeMs": 1515116293774.2854,
+      "ctimeMs": 1515116293774.2854,
       "birthtimeMs": 1515111104178.294,
       "atime": "2018-01-05T00:11:44.178Z",
-      "mtime": "2018-01-04T22:08:07.879Z",
-      "ctime": "2018-01-04T22:08:07.879Z",
+      "mtime": "2018-01-05T01:38:13.774Z",
+      "ctime": "2018-01-05T01:38:13.774Z",
       "birthtime": "2018-01-05T00:11:44.178Z"
     },
     "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file": {
@@ -2134,8 +2134,8 @@
       "children": [],
       "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
       "internal": {
-        "content": "---\r\nclient: \"LekoArts\"\r\ntitle: \"LekoArts - Your theme creator!\"\r\ncover: \"./lekoarts.jpg\"\r\ndate: \"2017-10-28\"\r\nservice: \"Theme\"\r\n---\r\n# Description\r\n\r\nHi!\r\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\r\n\r\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\r\n\r\n![](./lekoarts.jpg)",
-        "contentDigest": "7f8e0d94034daa1196ec2fe7a235a951",
+        "content": "---\r\nclient: \"LekoArts\"\r\ntitle: \"LekoArts - Your theme creator!\"\r\ncover: \"./lekoarts.jpg\"\r\ndate: \"2017-10-28\"\r\nservice: \"Theme\"\r\n---\r\n# Description\r\n\r\nTest\r\n\r\n![](./lekoarts.jpg)",
+        "contentDigest": "a7a5ac3d4b62888918c7a42e383478c2",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2328,6 +2328,214 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05 absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ce76c3bf2f3030470ef0186a772f3b93",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05",
+      "relativePath": "2018-01-05",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-05T01:31:00.675Z",
+      "accessTime": "2018-01-05T01:31:00.675Z",
+      "changeTime": "2018-01-05T01:33:18.594Z",
+      "birthTime": "2018-01-05T01:28:28.488Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects",
+      "base": "2018-01-05",
+      "ext": "",
+      "name": "2018-01-05",
+      "relativeDirectory": "",
+      "dev": 1418754601,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 12103424001203264,
+      "atimeMs": 1515115860675.3767,
+      "mtimeMs": 1515115860675.3767,
+      "ctimeMs": 1515115998593.7754,
+      "birthtimeMs": 1515115708487.6016,
+      "atime": "2018-01-05T01:31:00.675Z",
+      "mtime": "2018-01-05T01:31:00.675Z",
+      "ctime": "2018-01-05T01:33:18.594Z",
+      "birthtime": "2018-01-05T01:28:28.488Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "46bf06cf66c580594ce52149fcb89347",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md",
+      "relativePath": "2018-01-05/index.md",
+      "extension": "md",
+      "size": 145,
+      "prettySize": "145 B",
+      "modifiedTime": "2018-01-05T01:44:28.752Z",
+      "accessTime": "2018-01-05T01:41:25.495Z",
+      "changeTime": "2018-01-05T01:44:28.752Z",
+      "birthTime": "2018-01-05T01:28:50.188Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-01-05",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5348024560147508,
+      "atimeMs": 1515116485494.9998,
+      "mtimeMs": 1515116668752.3914,
+      "ctimeMs": 1515116668752.3914,
+      "birthtimeMs": 1515115730187.6028,
+      "atime": "2018-01-05T01:41:25.495Z",
+      "mtime": "2018-01-05T01:44:28.752Z",
+      "ctime": "2018-01-05T01:44:28.752Z",
+      "birthtime": "2018-01-05T01:28:50.188Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/loading.gif absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/loading.gif absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ee9c1c4bc9843e835dec186425359846",
+        "mediaType": "image/gif",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/loading.gif",
+      "relativePath": "2018-01-05/loading.gif",
+      "extension": "gif",
+      "size": 129236,
+      "prettySize": "129 kB",
+      "modifiedTime": "2018-01-05T01:29:15.337Z",
+      "accessTime": "2018-01-05T01:29:15.334Z",
+      "changeTime": "2018-01-05T01:29:15.337Z",
+      "birthTime": "2018-01-05T01:29:15.334Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05",
+      "base": "loading.gif",
+      "ext": ".gif",
+      "name": "loading",
+      "relativeDirectory": "2018-01-05",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1970324839619650,
+      "atimeMs": 1515115755333.7827,
+      "mtimeMs": 1515115755336.7896,
+      "ctimeMs": 1515115755336.7896,
+      "birthtimeMs": 1515115755333.7827,
+      "atime": "2018-01-05T01:29:15.334Z",
+      "mtime": "2018-01-05T01:29:15.337Z",
+      "ctime": "2018-01-05T01:29:15.337Z",
+      "birthtime": "2018-01-05T01:29:15.334Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"LekoArts\"\r\ntitle: \"123!\"\r\ncover: \"./test.png\"\r\ndate: \"2018-01-05\"\r\nservice: \"Theme\"\r\n---\r\n# Description\r\n\r\nGif!\r\n![](./loading.gif)",
+        "contentDigest": "32c6a73b1afb60c08891d9a764ff82b0",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "123!",
+        "client": "LekoArts",
+        "cover": "./test.png",
+        "date": "2018-01-05",
+        "service": "Theme",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md",
+      "fields": {
+        "slug": "/123"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg",
+      "relativePath": "2018-01-05/lekoarts.jpg",
+      "extension": "jpg",
+      "size": 472968,
+      "prettySize": "473 kB",
+      "modifiedTime": "2018-01-05T01:31:00.679Z",
+      "accessTime": "2018-01-05T01:31:00.675Z",
+      "changeTime": "2018-01-05T01:31:00.679Z",
+      "birthTime": "2018-01-05T01:31:00.675Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05",
+      "base": "lekoarts.jpg",
+      "ext": ".jpg",
+      "name": "lekoarts",
+      "relativeDirectory": "2018-01-05",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849862908998,
+      "atimeMs": 1515115860675.3767,
+      "mtimeMs": 1515115860679.4175,
+      "ctimeMs": 1515115860679.4175,
+      "birthtimeMs": 1515115860675.3767,
+      "atime": "2018-01-05T01:31:00.675Z",
+      "mtime": "2018-01-05T01:31:00.679Z",
+      "ctime": "2018-01-05T01:31:00.679Z",
+      "birthtime": "2018-01-05T01:31:00.675Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "SitePage /smart-triangle-make-triangles-smart": {
       "layout": "index",
       "jsonName": "smart-triangle-make-triangles-smart.json",
@@ -2338,7 +2546,7 @@
       "context": {
         "slug": "/smart-triangle-make-triangles-smart"
       },
-      "updatedAt": 1515113773664,
+      "updatedAt": 1515116668874,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
@@ -2347,7 +2555,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "80890841a8e725f31a31b88d65cf9237",
+        "contentDigest": "e932e40e8a822635406e0f510bc8a57e",
         "owner": "internal-data-bridge"
       }
     },
@@ -2361,7 +2569,7 @@
       "context": {
         "slug": "/leko-arts-your-theme-creator"
       },
-      "updatedAt": 1515113773664,
+      "updatedAt": 1515116668874,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
@@ -2370,7 +2578,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c68e77d4128b2b961718209f5a7ee9fe",
+        "contentDigest": "0bf0e1cc5d9936c4579c6c21126ea936",
         "owner": "internal-data-bridge"
       }
     },
@@ -2384,7 +2592,7 @@
       "context": {
         "slug": "/cube-round-make-cubes-round"
       },
-      "updatedAt": 1515113773665,
+      "updatedAt": 1515116668875,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
@@ -2393,7 +2601,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f81cc43183814c3fcba7c03c21c42758",
+        "contentDigest": "ac6bb9caf2ce43b468f234dfe41143cb",
         "owner": "internal-data-bridge"
       }
     },
@@ -2407,7 +2615,7 @@
       "context": {
         "slug": "/blob-sphere-make-spheres-blob"
       },
-      "updatedAt": 1515113773665,
+      "updatedAt": 1515116668875,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
@@ -2416,7 +2624,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d19b7613fd13df3768dff012024e3422",
+        "contentDigest": "e80bfeadee330ead94eb10516b3add38",
         "owner": "internal-data-bridge"
       }
     },
@@ -2428,7 +2636,7 @@
       "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1515113773678,
+      "updatedAt": 1515116012758,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
@@ -2437,70 +2645,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c85b1d330e6f33f67b082e8e5adb7c24",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
-      "componentChunkName": "component---src-pages-contact-jsx",
-      "context": {},
-      "updatedAt": 1515113773679,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
-      "id": "SitePage /contact/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f95f94b024373e971654085c2e5fd248",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
-      "componentChunkName": "component---src-pages-index-jsx",
-      "context": {},
-      "updatedAt": 1515113773680,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9ef5441e2c564cff70bd883aae87d80e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
-      "componentChunkName": "component---src-pages-404-jsx",
-      "context": {},
-      "updatedAt": 1515113773682,
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2e33e3c7af3e7b827da592cf597a2a71",
+        "contentDigest": "8c93a742825a4cd86cd178e0a3dd6c0d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2512,7 +2657,7 @@
       "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
       "componentChunkName": "component---src-pages-about-jsx",
       "context": {},
-      "updatedAt": 1515113773687,
+      "updatedAt": 1515116012760,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
@@ -2521,7 +2666,147 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "452f7beae949b6ee35776a788106f86c",
+        "contentDigest": "0a3de7c067cd0123861ebd1900d40652",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
+      "componentChunkName": "component---src-pages-contact-jsx",
+      "context": {},
+      "updatedAt": 1515116012761,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ba21de10b3d0ef3b596276acce74dbbe",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "updatedAt": 1515116012762,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9b2e66a403d7d1972a0afc15bbdffb96",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "updatedAt": 1515116012765,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "efba9011065edf916ef44550e3f7faa6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "df190b59462577731d0839ab96145f88",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png",
+      "relativePath": "2018-01-05/test.png",
+      "extension": "png",
+      "size": 196942,
+      "prettySize": "197 kB",
+      "modifiedTime": "2018-01-05T01:40:33.115Z",
+      "accessTime": "2018-01-05T01:40:25.673Z",
+      "changeTime": "2018-01-05T01:40:33.116Z",
+      "birthTime": "2018-01-05T01:40:25.674Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05",
+      "base": "test.png",
+      "ext": ".png",
+      "name": "test",
+      "relativeDirectory": "2018-01-05",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 8162774327254091,
+      "atimeMs": 1515116425673,
+      "mtimeMs": 1515116433115,
+      "ctimeMs": 1515116433116.3037,
+      "birthtimeMs": 1515116425673.6597,
+      "atime": "2018-01-05T01:40:25.673Z",
+      "mtime": "2018-01-05T01:40:33.115Z",
+      "ctime": "2018-01-05T01:40:33.116Z",
+      "birthtime": "2018-01-05T01:40:25.674Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file",
+      "internal": {
+        "contentDigest": "df190b59462577731d0839ab96145f88",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /123": {
+      "layout": "index",
+      "jsonName": "123.json",
+      "internalComponentName": "Component123",
+      "path": "/123",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/123"
+      },
+      "updatedAt": 1515116668875,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "id": "SitePage /123",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "462f7a41b268ee75228f8541f92320a5",
         "owner": "internal-data-bridge"
       }
     }
@@ -2575,6 +2860,27 @@
       ],
       "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark": [
         "/blob-sphere-make-spheres-blob"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file": [
+        "/"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp": [
+        "/"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/loading.gif absPath of file": [
+        "/",
+        "/123"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file": [
+        "/",
+        "/123"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file >> ImageSharp": [
+        "/",
+        "/123"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file >>> MarkdownRemark": [
+        "/123"
       ]
     },
     "connections": {
