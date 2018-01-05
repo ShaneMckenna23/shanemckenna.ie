@@ -58,4 +58,5 @@ typings/
 .env
 
 #Build directory
+.cache/
 public/
