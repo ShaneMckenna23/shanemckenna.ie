@@ -1,10 +1,17 @@
 [
     {
-        "componentChunkName": "component---cache-dev-404-page-js",
+        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "dev-404-page.json",
-        "path": "/dev-404-page/"
+        "jsonName": "offline-plugin-app-shell-fallback.json",
+        "path": "/offline-plugin-app-shell-fallback/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "leko-arts-your-theme-creator.json",
+        "path": "/leko-arts-your-theme-creator"
     },
     {
         "componentChunkName": "component---src-templates-project-jsx",
@@ -24,22 +31,15 @@
         "componentChunkName": "component---src-templates-project-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "smart-triangle-make-triangles-smart.json",
-        "path": "/smart-triangle-make-triangles-smart"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "leko-arts-your-theme-creator.json",
-        "path": "/leko-arts-your-theme-creator"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "123.json",
         "path": "/123"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "smart-triangle-make-triangles-smart.json",
+        "path": "/smart-triangle-make-triangles-smart"
     },
     {
         "componentChunkName": "component---src-pages-404-jsx",
