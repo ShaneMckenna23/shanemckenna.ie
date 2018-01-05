@@ -1,0 +1,2589 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1515111319402,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c629d9ab8271a611917ba03b9220d754",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c972438de0c03384f99a02c39d49c009",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1eb1ee3c90c866e2ccc1fb89eafc1627",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1a0783127c8db529e3eb5c8546ee8c62",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7f20ddf64a0718639cebc741e2029296",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "330819fe6203540491173b314c52cd23",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c3c209f5b1064f892737fc53a045c7ce",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.3",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "2.0.3",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6eb031c78d7e28e4353eb63ca5d595ad",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.11",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "projects",
+        "path": "C:\\Users\\Shane\\Documents\\GitHub\\shanemckenna.ie/content/projects"
+      },
+      "nodeAPIs": [
+        "sourceNodes"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.11",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f313c8656e90268a2bd714df693010e8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.26",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.36",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 1600,
+              "quality": 90,
+              "linkImagesToOriginal": false
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-external-links",
+            "id": "Plugin gatsby-remark-external-links",
+            "name": "gatsby-remark-external-links",
+            "version": "0.0.4",
+            "pluginOptions": {
+              "plugins": [],
+              "target": "_blank",
+              "rel": "nofollow noopener noreferrer"
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-external-links"
+          },
+          {
+            "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-responsive-iframe",
+            "id": "Plugin gatsby-remark-responsive-iframe",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "1.4.16",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-responsive-iframe"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.26",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^2.1.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d3b062ade7a91fc94381a9e0eb1f958b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.36",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 1600,
+        "quality": 90,
+        "linkImagesToOriginal": false
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.36",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark",
+          "image",
+          "responsive images"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.24"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4b0cb9bd222416321f8f3e9b679215bb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-external-links": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-external-links",
+      "id": "Plugin gatsby-remark-external-links",
+      "name": "gatsby-remark-external-links",
+      "version": "0.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "target": "_blank",
+        "rel": "nofollow noopener noreferrer"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-external-links",
+      "packageJson": {
+        "name": "gatsby-remark-external-links",
+        "description": "Automatically adds the target and rel attributes to external links in markdown.",
+        "version": "0.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Jimmy Longley <jimmylongley@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "dedent",
+            "version": "^0.7.0"
+          },
+          {
+            "name": "jest",
+            "version": "^21.2.1"
+          },
+          {
+            "name": "remark",
+            "version": "^8.0.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e8713cba8054b7e23a21b5c3cc7bc8ca",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-responsive-iframe": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-responsive-iframe",
+      "id": "Plugin gatsby-remark-responsive-iframe",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "1.4.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "1.4.16",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "738e3348f2a0a3c626f6b566f08c0c21",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.15",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-12345689-1"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "22d2d8805641ece08f167f4394609b84",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-nprogress": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-nprogress",
+      "id": "Plugin gatsby-plugin-nprogress",
+      "name": "gatsby-plugin-nprogress",
+      "version": "1.0.9",
+      "pluginOptions": {
+        "plugins": [],
+        "color": "#3498DB"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-nprogress",
+      "packageJson": {
+        "name": "gatsby-plugin-nprogress",
+        "description": "Shows page loading indicator when loading page resources is delayed",
+        "version": "1.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews<mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "nprogress",
+            "version": "^0.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2b78d082446ff7457a04d07f30903ec4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.17.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "79087da05390fd1a0351bd47aff7374c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sharp",
+          "image"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "11f97b239aefe1853851a41a50d89290",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-postcss-sass": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-postcss-sass",
+      "id": "Plugin gatsby-plugin-postcss-sass",
+      "name": "gatsby-plugin-postcss-sass",
+      "version": "1.0.15",
+      "pluginOptions": {
+        "plugins": [],
+        "postCssPlugins": [
+          null,
+          {
+            "version": "6.0.13",
+            "plugins": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "postcssPlugin": "rucksack",
+            "postcssVersion": "6.0.13"
+          }
+        ],
+        "precision": 8
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-postcss-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-postcss-sass",
+        "description": "Gatsby plugin to handle scss/sass files with integrated support for also processing with Postcss plugins",
+        "version": "1.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "postcss",
+          "sass",
+          "scss"
+        ],
+        "author": "Scotty Eckenthal <scotty@meetfabric.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "extract-text-webpack-plugin",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3ce39108d61b894d056137655225535c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "1.7.10",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography.jsx"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "1.7.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ebf773931033929a6d681f9de070e2a4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-catch-links": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-catch-links",
+      "id": "Plugin gatsby-plugin-catch-links",
+      "name": "gatsby-plugin-catch-links",
+      "version": "1.0.14",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "1.0.14",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ee653fb4426395433868004df5d2ebc1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sitemap": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-sitemap",
+      "id": "Plugin gatsby-plugin-sitemap",
+      "name": "gatsby-plugin-sitemap",
+      "version": "1.2.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Stub description for gatsby-plugin-sitemap",
+        "version": "1.2.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "eaf3d6b5eb81dd16898fbb96547dd669",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-manifest": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-manifest",
+      "id": "Plugin gatsby-plugin-manifest",
+      "name": "gatsby-plugin-manifest",
+      "version": "1.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Shane Mckenna",
+        "short_name": "Shane Mckenna - Portfolio",
+        "description": "Minimalistic bright portfolio with full-width grid and large images",
+        "start_url": "/",
+        "background_color": "#2b2e3c",
+        "theme_color": "#3498DB",
+        "display": "minimal-ui",
+        "icons": [
+          {
+            "src": "/logos/logo-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/logos/logo-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.json to make sites progressive web apps",
+        "version": "1.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "manifest.json",
+          "pwa",
+          "progressive-web-app"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2135ec455f57f2fb1c2cde73e09b5a3f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.12",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "eac54840526dccf954b474124a361db6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "02067b8fb7551ac1e7868c096d291682",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages"
+      ],
+      "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie",
+      "packageJson": {
+        "name": "gatsby-starter-portfolio-emma",
+        "description": "Gatsby Starter Portfolio Emma",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby",
+          "lekoarts",
+          "portfolio",
+          "starter"
+        ],
+        "author": "LekoArts <hello@lekoarts.de>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "classnames",
+            "version": "^2.2.5"
+          },
+          {
+            "name": "date-fns",
+            "version": "^1.29.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.149"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.31"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.32"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^1.0.14"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.14"
+          },
+          {
+            "name": "gatsby-plugin-lodash",
+            "version": "^1.0.7"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-nprogress",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-postcss-sass",
+            "version": "^1.0.15"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.3"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.24"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^1.2.9"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^1.7.10"
+          },
+          {
+            "name": "gatsby-remark-external-links",
+            "version": "^0.0.4"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.36"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^1.4.16"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.11"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.26"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.16"
+          },
+          {
+            "name": "react-burger-menu",
+            "version": "^2.1.11"
+          },
+          {
+            "name": "react-headroom",
+            "version": "^2.2.2"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-icons",
+            "version": "^2.2.7"
+          },
+          {
+            "name": "react-lazy-hero",
+            "version": "^0.2.1"
+          },
+          {
+            "name": "react-palette",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "react-reveal",
+            "version": "^0.7.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "autoprefixer",
+            "version": "^7.2.3"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.6.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^4.9.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.4.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.7.4"
+          },
+          {
+            "name": "rucksack-css",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "stylelint",
+            "version": "^8.2.0"
+          },
+          {
+            "name": "stylelint-config-sass-guidelines",
+            "version": "^3.1.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9f1cc449cf4e7de80e407d00dc306d4a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "siteUrl": "https://embalmer-glues-43220.netlify.com"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-01-05T00:15:15.141Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8d03d5b76f53d57e9e29e485425cc989",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "10232ae576e786b83dd5acf896dd95f6",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-05T00:11:44.172Z",
+      "accessTime": "2018-01-05T00:11:44.172Z",
+      "changeTime": "2018-01-05T00:11:44.172Z",
+      "birthTime": "2018-01-05T00:11:44.142Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content",
+      "base": "projects",
+      "ext": "",
+      "name": "projects",
+      "relativeDirectory": "..",
+      "dev": 1418754601,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305240,
+      "atimeMs": 1515111104172.251,
+      "mtimeMs": 1515111104172.251,
+      "ctimeMs": 1515111104172.251,
+      "birthtimeMs": 1515111104142.2058,
+      "atime": "2018-01-05T00:11:44.172Z",
+      "mtime": "2018-01-05T00:11:44.172Z",
+      "ctime": "2018-01-05T00:11:44.172Z",
+      "birthtime": "2018-01-05T00:11:44.142Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25 absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2d1c0f101d4f1fa55eb52443fa852123",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25",
+      "relativePath": "2017-10-25",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-05T00:11:44.151Z",
+      "accessTime": "2018-01-05T00:11:44.151Z",
+      "changeTime": "2018-01-05T00:11:44.151Z",
+      "birthTime": "2018-01-05T00:11:44.144Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects",
+      "base": "2017-10-25",
+      "ext": "",
+      "name": "2017-10-25",
+      "relativeDirectory": "",
+      "dev": 1418754601,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305241,
+      "atimeMs": 1515111104151.2134,
+      "mtimeMs": 1515111104151.2134,
+      "ctimeMs": 1515111104151.2134,
+      "birthtimeMs": 1515111104143.7122,
+      "atime": "2018-01-05T00:11:44.151Z",
+      "mtime": "2018-01-05T00:11:44.151Z",
+      "ctime": "2018-01-05T00:11:44.151Z",
+      "birthtime": "2018-01-05T00:11:44.144Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27 absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3acc9df02603964d89920e4ea649a71c",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27",
+      "relativePath": "2017-10-27",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-05T00:11:44.170Z",
+      "accessTime": "2018-01-05T00:11:44.170Z",
+      "changeTime": "2018-01-05T00:11:44.170Z",
+      "birthTime": "2018-01-05T00:11:44.163Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects",
+      "base": "2017-10-27",
+      "ext": "",
+      "name": "2017-10-27",
+      "relativeDirectory": "",
+      "dev": 1418754601,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305247,
+      "atimeMs": 1515111104170.2456,
+      "mtimeMs": 1515111104170.2456,
+      "ctimeMs": 1515111104170.2456,
+      "birthtimeMs": 1515111104163.2275,
+      "atime": "2018-01-05T00:11:44.170Z",
+      "mtime": "2018-01-05T00:11:44.170Z",
+      "ctime": "2018-01-05T00:11:44.170Z",
+      "birthtime": "2018-01-05T00:11:44.163Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26 absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4877a9b1f52da6fa3c69041ea9f2cf80",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26",
+      "relativePath": "2017-10-26",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-05T00:11:44.161Z",
+      "accessTime": "2018-01-05T00:11:44.161Z",
+      "changeTime": "2018-01-05T00:11:44.161Z",
+      "birthTime": "2018-01-05T00:11:44.154Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects",
+      "base": "2017-10-26",
+      "ext": "",
+      "name": "2017-10-26",
+      "relativeDirectory": "",
+      "dev": 1418754601,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305244,
+      "atimeMs": 1515111104161.2407,
+      "mtimeMs": 1515111104161.2407,
+      "ctimeMs": 1515111104161.2407,
+      "birthtimeMs": 1515111104154.2302,
+      "atime": "2018-01-05T00:11:44.161Z",
+      "mtime": "2018-01-05T00:11:44.161Z",
+      "ctime": "2018-01-05T00:11:44.161Z",
+      "birthtime": "2018-01-05T00:11:44.154Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28 absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3dce11011caecfb6df4525ab8c6b1500",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28",
+      "relativePath": "2017-10-28",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-05T00:11:44.180Z",
+      "accessTime": "2018-01-05T00:11:44.180Z",
+      "changeTime": "2018-01-05T00:11:44.180Z",
+      "birthTime": "2018-01-05T00:11:44.172Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects",
+      "base": "2017-10-28",
+      "ext": "",
+      "name": "2017-10-28",
+      "relativeDirectory": "",
+      "dev": 1418754601,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305250,
+      "atimeMs": 1515111104180.272,
+      "mtimeMs": 1515111104180.272,
+      "ctimeMs": 1515111104180.272,
+      "birthtimeMs": 1515111104172.251,
+      "atime": "2018-01-05T00:11:44.180Z",
+      "mtime": "2018-01-05T00:11:44.180Z",
+      "ctime": "2018-01-05T00:11:44.180Z",
+      "birthtime": "2018-01-05T00:11:44.172Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e9e7bb16b13fa412cbe9534d113e78b8",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md",
+      "relativePath": "2017-10-27/index.md",
+      "extension": "md",
+      "size": 864,
+      "prettySize": "864 B",
+      "modifiedTime": "2018-01-04T22:08:07.875Z",
+      "accessTime": "2018-01-05T00:11:44.168Z",
+      "changeTime": "2018-01-04T22:08:07.875Z",
+      "birthTime": "2018-01-05T00:11:44.168Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-27",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305248,
+      "atimeMs": 1515111104168.2673,
+      "mtimeMs": 1515103687874.621,
+      "ctimeMs": 1515103687874.621,
+      "birthtimeMs": 1515111104168.2673,
+      "atime": "2018-01-05T00:11:44.168Z",
+      "mtime": "2018-01-04T22:08:07.875Z",
+      "ctime": "2018-01-04T22:08:07.875Z",
+      "birthtime": "2018-01-05T00:11:44.168Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "14f8e86bc4d15084fe5a2d7ff212adad",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md",
+      "relativePath": "2017-10-26/index.md",
+      "extension": "md",
+      "size": 842,
+      "prettySize": "842 B",
+      "modifiedTime": "2018-01-04T22:08:07.874Z",
+      "accessTime": "2018-01-05T00:11:44.161Z",
+      "changeTime": "2018-01-04T22:08:07.874Z",
+      "birthTime": "2018-01-05T00:11:44.161Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-26",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305246,
+      "atimeMs": 1515111104161.2407,
+      "mtimeMs": 1515103687873.727,
+      "ctimeMs": 1515103687873.727,
+      "birthtimeMs": 1515111104161.2407,
+      "atime": "2018-01-05T00:11:44.161Z",
+      "mtime": "2018-01-04T22:08:07.874Z",
+      "ctime": "2018-01-04T22:08:07.874Z",
+      "birthtime": "2018-01-05T00:11:44.161Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b98be78c7ccb8b29ae1f1436d9afd416",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md",
+      "relativePath": "2017-10-28/index.md",
+      "extension": "md",
+      "size": 605,
+      "prettySize": "605 B",
+      "modifiedTime": "2018-01-04T22:08:07.879Z",
+      "accessTime": "2018-01-05T00:11:44.178Z",
+      "changeTime": "2018-01-04T22:08:07.879Z",
+      "birthTime": "2018-01-05T00:11:44.178Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-28",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305251,
+      "atimeMs": 1515111104178.294,
+      "mtimeMs": 1515103687878.709,
+      "ctimeMs": 1515103687878.709,
+      "birthtimeMs": 1515111104178.294,
+      "atime": "2018-01-05T00:11:44.178Z",
+      "mtime": "2018-01-04T22:08:07.879Z",
+      "ctime": "2018-01-04T22:08:07.879Z",
+      "birthtime": "2018-01-05T00:11:44.178Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ebb899e6e1a2125fecc3a0634d42203f",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md",
+      "relativePath": "2017-10-25/index.md",
+      "extension": "md",
+      "size": 849,
+      "prettySize": "849 B",
+      "modifiedTime": "2018-01-04T22:08:07.870Z",
+      "accessTime": "2018-01-05T00:11:44.151Z",
+      "changeTime": "2018-01-04T22:08:07.870Z",
+      "birthTime": "2018-01-05T00:11:44.151Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-25",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305243,
+      "atimeMs": 1515111104151.2134,
+      "mtimeMs": 1515103687869.7268,
+      "ctimeMs": 1515103687869.7268,
+      "birthtimeMs": 1515111104151.2134,
+      "atime": "2018-01-05T00:11:44.151Z",
+      "mtime": "2018-01-04T22:08:07.870Z",
+      "ctime": "2018-01-04T22:08:07.870Z",
+      "birthtime": "2018-01-05T00:11:44.151Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg",
+      "relativePath": "2017-10-25/blobSphere.jpg",
+      "extension": "jpg",
+      "size": 209762,
+      "prettySize": "210 kB",
+      "modifiedTime": "2018-01-04T22:08:07.870Z",
+      "accessTime": "2018-01-05T00:11:44.146Z",
+      "changeTime": "2018-01-04T22:08:07.870Z",
+      "birthTime": "2018-01-05T00:11:44.146Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25",
+      "base": "blobSphere.jpg",
+      "ext": ".jpg",
+      "name": "blobSphere",
+      "relativeDirectory": "2017-10-25",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305242,
+      "atimeMs": 1515111104145.9568,
+      "mtimeMs": 1515103687869.7268,
+      "ctimeMs": 1515103687869.7268,
+      "birthtimeMs": 1515111104145.9568,
+      "atime": "2018-01-05T00:11:44.146Z",
+      "mtime": "2018-01-04T22:08:07.870Z",
+      "ctime": "2018-01-04T22:08:07.870Z",
+      "birthtime": "2018-01-05T00:11:44.146Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "224143b7440585785b0d46827cc65219",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg",
+      "relativePath": "2017-10-26/cubeRound.jpg",
+      "extension": "jpg",
+      "size": 292267,
+      "prettySize": "292 kB",
+      "modifiedTime": "2018-01-04T22:08:07.873Z",
+      "accessTime": "2018-01-05T00:11:44.155Z",
+      "changeTime": "2018-01-04T22:08:07.873Z",
+      "birthTime": "2018-01-05T00:11:44.155Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26",
+      "base": "cubeRound.jpg",
+      "ext": ".jpg",
+      "name": "cubeRound",
+      "relativeDirectory": "2017-10-26",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305245,
+      "atimeMs": 1515111104155.2056,
+      "mtimeMs": 1515103687872.7227,
+      "ctimeMs": 1515103687872.7227,
+      "birthtimeMs": 1515111104155.2056,
+      "atime": "2018-01-05T00:11:44.155Z",
+      "mtime": "2018-01-04T22:08:07.873Z",
+      "ctime": "2018-01-04T22:08:07.873Z",
+      "birthtime": "2018-01-05T00:11:44.155Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file",
+      "internal": {
+        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"SmartTriangle\"\r\ntitle: \"SmartTriangle - Make Triangles smart!\"\r\ncover: \"./smartTriangle.jpg\"\r\ndate: \"2017-10-27\"\r\nservice: \"Art Direction\"\r\n---\r\n# Description\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "contentDigest": "0ef514789302bf2e52d1d1091e9d8159",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "SmartTriangle - Make Triangles smart!",
+        "client": "SmartTriangle",
+        "cover": "./smartTriangle.jpg",
+        "date": "2017-10-27",
+        "service": "Art Direction",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md",
+      "fields": {
+        "slug": "/smart-triangle-make-triangles-smart"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"LekoArts\"\r\ntitle: \"LekoArts - Your theme creator!\"\r\ncover: \"./lekoarts.jpg\"\r\ndate: \"2017-10-28\"\r\nservice: \"Theme\"\r\n---\r\n# Description\r\n\r\nHi!\r\nI hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).\r\n\r\nIf you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!\r\n\r\n![](./lekoarts.jpg)",
+        "contentDigest": "7f8e0d94034daa1196ec2fe7a235a951",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "LekoArts - Your theme creator!",
+        "client": "LekoArts",
+        "cover": "./lekoarts.jpg",
+        "date": "2017-10-28",
+        "service": "Theme",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md",
+      "fields": {
+        "slug": "/leko-arts-your-theme-creator"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"CubeRound\"\r\ntitle: \"CubeRound - Make Cubes round!\"\r\ncover: \"./cubeRound.jpg\"\r\ndate: \"2017-10-26\"\r\nservice: \"Website\"\r\n---\r\n# Description\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "contentDigest": "852eab83845689e1fea36a6027eab4e0",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "CubeRound - Make Cubes round!",
+        "client": "CubeRound",
+        "cover": "./cubeRound.jpg",
+        "date": "2017-10-26",
+        "service": "Website",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md",
+      "fields": {
+        "slug": "/cube-round-make-cubes-round"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"BlobSphere\"\r\ntitle: \"BlobSphere - Make Spheres blob!\"\r\ncover: \"./blobSphere.jpg\"\r\ndate: \"2017-10-25\"\r\nservice: \"App Design\"\r\n---\r\n# Description\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "contentDigest": "01bd22a0b9c2072c85df775d884c9d7f",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "BlobSphere - Make Spheres blob!",
+        "client": "BlobSphere",
+        "cover": "./blobSphere.jpg",
+        "date": "2017-10-25",
+        "service": "App Design",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md",
+      "fields": {
+        "slug": "/blob-sphere-make-spheres-blob"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg",
+      "relativePath": "2017-10-27/smartTriangle.jpg",
+      "extension": "jpg",
+      "size": 404825,
+      "prettySize": "405 kB",
+      "modifiedTime": "2018-01-04T22:08:07.878Z",
+      "accessTime": "2018-01-05T00:11:44.170Z",
+      "changeTime": "2018-01-04T22:08:07.878Z",
+      "birthTime": "2018-01-05T00:11:44.170Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27",
+      "base": "smartTriangle.jpg",
+      "ext": ".jpg",
+      "name": "smartTriangle",
+      "relativeDirectory": "2017-10-27",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305249,
+      "atimeMs": 1515111104170.2456,
+      "mtimeMs": 1515103687877.8882,
+      "ctimeMs": 1515103687877.8882,
+      "birthtimeMs": 1515111104170.2456,
+      "atime": "2018-01-05T00:11:44.170Z",
+      "mtime": "2018-01-04T22:08:07.878Z",
+      "ctime": "2018-01-04T22:08:07.878Z",
+      "birthtime": "2018-01-05T00:11:44.170Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file",
+      "internal": {
+        "contentDigest": "224143b7440585785b0d46827cc65219",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file",
+      "internal": {
+        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg",
+      "relativePath": "2017-10-28/lekoarts.jpg",
+      "extension": "jpg",
+      "size": 472968,
+      "prettySize": "473 kB",
+      "modifiedTime": "2018-01-04T22:08:07.882Z",
+      "accessTime": "2018-01-05T00:11:44.180Z",
+      "changeTime": "2018-01-04T22:08:07.882Z",
+      "birthTime": "2018-01-05T00:11:44.180Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28",
+      "base": "lekoarts.jpg",
+      "ext": ".jpg",
+      "name": "lekoarts",
+      "relativeDirectory": "2017-10-28",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305252,
+      "atimeMs": 1515111104180.272,
+      "mtimeMs": 1515103687881.718,
+      "ctimeMs": 1515103687881.718,
+      "birthtimeMs": 1515111104180.272,
+      "atime": "2018-01-05T00:11:44.180Z",
+      "mtime": "2018-01-04T22:08:07.882Z",
+      "ctime": "2018-01-04T22:08:07.882Z",
+      "birthtime": "2018-01-05T00:11:44.180Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /smart-triangle-make-triangles-smart": {
+      "layout": "index",
+      "jsonName": "smart-triangle-make-triangles-smart.json",
+      "internalComponentName": "ComponentSmartTriangleMakeTrianglesSmart",
+      "path": "/smart-triangle-make-triangles-smart",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/smart-triangle-make-triangles-smart"
+      },
+      "updatedAt": 1515111319418,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "id": "SitePage /smart-triangle-make-triangles-smart",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d49a7531bd4e62215c0f6ce7cb3b007f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /leko-arts-your-theme-creator": {
+      "layout": "index",
+      "jsonName": "leko-arts-your-theme-creator.json",
+      "internalComponentName": "ComponentLekoArtsYourThemeCreator",
+      "path": "/leko-arts-your-theme-creator",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/leko-arts-your-theme-creator"
+      },
+      "updatedAt": 1515111319419,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "id": "SitePage /leko-arts-your-theme-creator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "67451af654f090411fa1d64b914a7ad1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /cube-round-make-cubes-round": {
+      "layout": "index",
+      "jsonName": "cube-round-make-cubes-round.json",
+      "internalComponentName": "ComponentCubeRoundMakeCubesRound",
+      "path": "/cube-round-make-cubes-round",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/cube-round-make-cubes-round"
+      },
+      "updatedAt": 1515111319419,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "id": "SitePage /cube-round-make-cubes-round",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "43e2c2e8103c3fd900b4079115be96f6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blob-sphere-make-spheres-blob": {
+      "layout": "index",
+      "jsonName": "blob-sphere-make-spheres-blob.json",
+      "internalComponentName": "ComponentBlobSphereMakeSpheresBlob",
+      "path": "/blob-sphere-make-spheres-blob",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/blob-sphere-make-spheres-blob"
+      },
+      "updatedAt": 1515111319419,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "id": "SitePage /blob-sphere-make-spheres-blob",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "28e6da63ca5a0f83f81cf4688777180b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "updatedAt": 1515111319435,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d9dead2ea69cc7170430866b87fff990",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
+      "componentChunkName": "component---src-pages-about-jsx",
+      "context": {},
+      "updatedAt": 1515111319436,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7741c55002f57c80b09d6339d9c1528f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
+      "componentChunkName": "component---src-pages-contact-jsx",
+      "context": {},
+      "updatedAt": 1515111319436,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3594d13d65bdf812411e498a487e04e3",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "updatedAt": 1515111319438,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1f56cc0b14b0bc7e529a2a3b75059d20",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "updatedAt": 1515111319440,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9a539a2794f9ac2ef94a0ed473211e7b",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "4c71d0599f789b5c9f1c7bfc6124c4fa"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file": [
+        "/",
+        "/leko-arts-your-theme-creator"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp": [
+        "/",
+        "/leko-arts-your-theme-creator"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file": [
+        "/",
+        "/smart-triangle-make-triangles-smart"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp": [
+        "/",
+        "/smart-triangle-make-triangles-smart"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file": [
+        "/",
+        "/cube-round-make-cubes-round"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp": [
+        "/",
+        "/cube-round-make-cubes-round"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file": [
+        "/",
+        "/blob-sphere-make-spheres-blob"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp": [
+        "/",
+        "/blob-sphere-make-spheres-blob"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file >>> MarkdownRemark": [
+        "/cube-round-make-cubes-round"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark": [
+        "/leko-arts-your-theme-creator"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark": [
+        "/smart-triangle-make-triangles-smart"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark": [
+        "/blob-sphere-make-spheres-blob"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
+      "MarkdownRemark": [
+        "/"
+      ]
+    }
+  }
+}
