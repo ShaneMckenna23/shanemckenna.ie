@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 import config from '../../config/SiteConfig'
 import SEO from '../components/SEO/SEO'
 import ProjectListing from '../components/ProjectListing/ProjectListing'
-import Hero from '../components/Hero/Hero'
+import HeroContainer from '../components/HeroContainer/HeroContainer'
 import Footer from '../components/Footer/Footer'
 
 export default class Index extends React.Component {
@@ -16,7 +16,7 @@ export default class Index extends React.Component {
 					<title>{config.siteTitle}</title>
 				</Helmet>
 				<div>
-          <Hero/>
+          <HeroContainer/>
 					<ProjectListing projectEdges={projectEdges} />
 				</div>
 				<Footer />

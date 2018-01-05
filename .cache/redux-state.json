@@ -8,7 +8,7 @@
       "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1515116668867,
+      "updatedAt": 1515119673652,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "32edd67877fe8a9a1f23e755faf46fdf",
+        "contentDigest": "86fbd69f51908fa10d0ebd07ff8688e8",
         "owner": "internal-data-bridge"
       }
     },
@@ -386,7 +386,10 @@
               "plugins": [],
               "maxWidth": 1600,
               "quality": 90,
-              "linkImagesToOriginal": false
+              "linkImagesToOriginal": false,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "pathPrefix": ""
             },
             "nodeAPIs": [],
             "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-images"
@@ -410,7 +413,8 @@
             "name": "gatsby-remark-responsive-iframe",
             "version": "1.4.16",
             "pluginOptions": {
-              "plugins": []
+              "plugins": [],
+              "wrapperStyle": ""
             },
             "nodeAPIs": [],
             "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-responsive-iframe"
@@ -539,7 +543,10 @@
         "plugins": [],
         "maxWidth": 1600,
         "quality": 90,
-        "linkImagesToOriginal": false
+        "linkImagesToOriginal": false,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "pathPrefix": ""
       },
       "nodeAPIs": [],
       "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-images",
@@ -692,7 +699,8 @@
       "name": "gatsby-remark-responsive-iframe",
       "version": "1.4.16",
       "pluginOptions": {
-        "plugins": []
+        "plugins": [],
+        "wrapperStyle": ""
       },
       "nodeAPIs": [],
       "pluginFilepath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-remark-responsive-iframe",
@@ -1553,6 +1561,14 @@
           {
             "name": "react-reveal",
             "version": "^0.7.3"
+          },
+          {
+            "name": "react-typist",
+            "version": "^2.0.4"
+          },
+          {
+            "name": "scroll-to-element",
+            "version": "^2.0.0"
           }
         ],
         "devDependencies": [
@@ -1613,12 +1629,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-05T01:33:28.226Z",
+      "buildTime": "2018-01-05T02:34:29.427Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fabd26f680bd87dac40f1c5f8f6f4968",
+        "contentDigest": "1305f27d53b996c769e8051e2ca4a640",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1828,49 +1844,46 @@
       "ctime": "2018-01-05T00:11:44.180Z",
       "birthtime": "2018-01-05T00:11:44.172Z"
     },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file",
-      "children": [
-        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark"
-      ],
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05 absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05 absPath of file",
+      "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e9e7bb16b13fa412cbe9534d113e78b8",
-        "mediaType": "text/markdown",
-        "type": "File",
+        "contentDigest": "21c335dd63b153e533bbe8159b86eb11",
+        "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md",
-      "relativePath": "2017-10-27/index.md",
-      "extension": "md",
-      "size": 864,
-      "prettySize": "864 B",
-      "modifiedTime": "2018-01-04T22:08:07.875Z",
-      "accessTime": "2018-01-05T00:11:44.168Z",
-      "changeTime": "2018-01-04T22:08:07.875Z",
-      "birthTime": "2018-01-05T00:11:44.168Z",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05",
+      "relativePath": "2018-01-05",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-01-05T01:40:33.115Z",
+      "accessTime": "2018-01-05T01:40:33.115Z",
+      "changeTime": "2018-01-05T01:40:33.115Z",
+      "birthTime": "2018-01-05T01:28:28.488Z",
       "root": "C:/",
-      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-10-27",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects",
+      "base": "2018-01-05",
+      "ext": "",
+      "name": "2018-01-05",
+      "relativeDirectory": "",
       "dev": 1418754601,
-      "mode": 33206,
+      "mode": 16822,
       "nlink": 1,
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 281474979305248,
-      "atimeMs": 1515111104168.2673,
-      "mtimeMs": 1515103687874.621,
-      "ctimeMs": 1515103687874.621,
-      "birthtimeMs": 1515111104168.2673,
-      "atime": "2018-01-05T00:11:44.168Z",
-      "mtime": "2018-01-04T22:08:07.875Z",
-      "ctime": "2018-01-04T22:08:07.875Z",
-      "birthtime": "2018-01-05T00:11:44.168Z"
+      "ino": 12103424001203264,
+      "atimeMs": 1515116433114.8005,
+      "mtimeMs": 1515116433114.8005,
+      "ctimeMs": 1515116433114.8005,
+      "birthtimeMs": 1515115708487.6016,
+      "atime": "2018-01-05T01:40:33.115Z",
+      "mtime": "2018-01-05T01:40:33.115Z",
+      "ctime": "2018-01-05T01:40:33.115Z",
+      "birthtime": "2018-01-05T01:28:28.488Z"
     },
     "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file": {
       "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file",
@@ -1916,50 +1929,6 @@
       "ctime": "2018-01-04T22:08:07.874Z",
       "birthtime": "2018-01-05T00:11:44.161Z"
     },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
-      "children": [
-        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "106431643cefe73c57431243349d2ccf",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md",
-      "relativePath": "2017-10-28/index.md",
-      "extension": "md",
-      "size": 178,
-      "prettySize": "178 B",
-      "modifiedTime": "2018-01-05T01:38:13.774Z",
-      "accessTime": "2018-01-05T00:11:44.178Z",
-      "changeTime": "2018-01-05T01:38:13.774Z",
-      "birthTime": "2018-01-05T00:11:44.178Z",
-      "root": "C:/",
-      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-10-28",
-      "dev": 1418754601,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 281474979305251,
-      "atimeMs": 1515111104178.294,
-      "mtimeMs": 1515116293774.2854,
-      "ctimeMs": 1515116293774.2854,
-      "birthtimeMs": 1515111104178.294,
-      "atime": "2018-01-05T00:11:44.178Z",
-      "mtime": "2018-01-05T01:38:13.774Z",
-      "ctime": "2018-01-05T01:38:13.774Z",
-      "birthtime": "2018-01-05T00:11:44.178Z"
-    },
     "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file": {
       "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file",
       "children": [
@@ -2004,239 +1973,33 @@
       "ctime": "2018-01-04T22:08:07.870Z",
       "birthtime": "2018-01-05T00:11:44.151Z"
     },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file",
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file",
       "children": [
-        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp"
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
-        "mediaType": "image/jpeg",
+        "contentDigest": "e9e7bb16b13fa412cbe9534d113e78b8",
+        "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg",
-      "relativePath": "2017-10-25/blobSphere.jpg",
-      "extension": "jpg",
-      "size": 209762,
-      "prettySize": "210 kB",
-      "modifiedTime": "2018-01-04T22:08:07.870Z",
-      "accessTime": "2018-01-05T00:11:44.146Z",
-      "changeTime": "2018-01-04T22:08:07.870Z",
-      "birthTime": "2018-01-05T00:11:44.146Z",
-      "root": "C:/",
-      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25",
-      "base": "blobSphere.jpg",
-      "ext": ".jpg",
-      "name": "blobSphere",
-      "relativeDirectory": "2017-10-25",
-      "dev": 1418754601,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 281474979305242,
-      "atimeMs": 1515111104145.9568,
-      "mtimeMs": 1515103687869.7268,
-      "ctimeMs": 1515103687869.7268,
-      "birthtimeMs": 1515111104145.9568,
-      "atime": "2018-01-05T00:11:44.146Z",
-      "mtime": "2018-01-04T22:08:07.870Z",
-      "ctime": "2018-01-04T22:08:07.870Z",
-      "birthtime": "2018-01-05T00:11:44.146Z"
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file",
-      "children": [
-        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "224143b7440585785b0d46827cc65219",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg",
-      "relativePath": "2017-10-26/cubeRound.jpg",
-      "extension": "jpg",
-      "size": 292267,
-      "prettySize": "292 kB",
-      "modifiedTime": "2018-01-04T22:08:07.873Z",
-      "accessTime": "2018-01-05T00:11:44.155Z",
-      "changeTime": "2018-01-04T22:08:07.873Z",
-      "birthTime": "2018-01-05T00:11:44.155Z",
-      "root": "C:/",
-      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26",
-      "base": "cubeRound.jpg",
-      "ext": ".jpg",
-      "name": "cubeRound",
-      "relativeDirectory": "2017-10-26",
-      "dev": 1418754601,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 281474979305245,
-      "atimeMs": 1515111104155.2056,
-      "mtimeMs": 1515103687872.7227,
-      "ctimeMs": 1515103687872.7227,
-      "birthtimeMs": 1515111104155.2056,
-      "atime": "2018-01-05T00:11:44.155Z",
-      "mtime": "2018-01-04T22:08:07.873Z",
-      "ctime": "2018-01-04T22:08:07.873Z",
-      "birthtime": "2018-01-05T00:11:44.155Z"
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file",
-      "internal": {
-        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file",
-      "internal": {
-        "content": "---\r\nclient: \"SmartTriangle\"\r\ntitle: \"SmartTriangle - Make Triangles smart!\"\r\ncover: \"./smartTriangle.jpg\"\r\ndate: \"2017-10-27\"\r\nservice: \"Art Direction\"\r\n---\r\n# Description\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-        "contentDigest": "0ef514789302bf2e52d1d1091e9d8159",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "SmartTriangle - Make Triangles smart!",
-        "client": "SmartTriangle",
-        "cover": "./smartTriangle.jpg",
-        "date": "2017-10-27",
-        "service": "Art Direction",
-        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file",
-        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file"
-      },
-      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md",
-      "fields": {
-        "slug": "/smart-triangle-make-triangles-smart"
-      }
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
-      "internal": {
-        "content": "---\r\nclient: \"LekoArts\"\r\ntitle: \"LekoArts - Your theme creator!\"\r\ncover: \"./lekoarts.jpg\"\r\ndate: \"2017-10-28\"\r\nservice: \"Theme\"\r\n---\r\n# Description\r\n\r\nTest\r\n\r\n![](./lekoarts.jpg)",
-        "contentDigest": "a7a5ac3d4b62888918c7a42e383478c2",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "LekoArts - Your theme creator!",
-        "client": "LekoArts",
-        "cover": "./lekoarts.jpg",
-        "date": "2017-10-28",
-        "service": "Theme",
-        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
-        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file"
-      },
-      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md",
-      "fields": {
-        "slug": "/leko-arts-your-theme-creator"
-      }
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file",
-      "internal": {
-        "content": "---\r\nclient: \"CubeRound\"\r\ntitle: \"CubeRound - Make Cubes round!\"\r\ncover: \"./cubeRound.jpg\"\r\ndate: \"2017-10-26\"\r\nservice: \"Website\"\r\n---\r\n# Description\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-        "contentDigest": "852eab83845689e1fea36a6027eab4e0",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "CubeRound - Make Cubes round!",
-        "client": "CubeRound",
-        "cover": "./cubeRound.jpg",
-        "date": "2017-10-26",
-        "service": "Website",
-        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file",
-        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file"
-      },
-      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md",
-      "fields": {
-        "slug": "/cube-round-make-cubes-round"
-      }
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file",
-      "internal": {
-        "content": "---\r\nclient: \"BlobSphere\"\r\ntitle: \"BlobSphere - Make Spheres blob!\"\r\ncover: \"./blobSphere.jpg\"\r\ndate: \"2017-10-25\"\r\nservice: \"App Design\"\r\n---\r\n# Description\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
-        "contentDigest": "01bd22a0b9c2072c85df775d884c9d7f",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "BlobSphere - Make Spheres blob!",
-        "client": "BlobSphere",
-        "cover": "./blobSphere.jpg",
-        "date": "2017-10-25",
-        "service": "App Design",
-        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file",
-        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file"
-      },
-      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md",
-      "fields": {
-        "slug": "/blob-sphere-make-spheres-blob"
-      }
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file",
-      "children": [
-        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg",
-      "relativePath": "2017-10-27/smartTriangle.jpg",
-      "extension": "jpg",
-      "size": 404825,
-      "prettySize": "405 kB",
-      "modifiedTime": "2018-01-04T22:08:07.878Z",
-      "accessTime": "2018-01-05T00:11:44.170Z",
-      "changeTime": "2018-01-04T22:08:07.878Z",
-      "birthTime": "2018-01-05T00:11:44.170Z",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md",
+      "relativePath": "2017-10-27/index.md",
+      "extension": "md",
+      "size": 864,
+      "prettySize": "864 B",
+      "modifiedTime": "2018-01-04T22:08:07.875Z",
+      "accessTime": "2018-01-05T00:11:44.168Z",
+      "changeTime": "2018-01-04T22:08:07.875Z",
+      "birthTime": "2018-01-05T00:11:44.168Z",
       "root": "C:/",
       "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27",
-      "base": "smartTriangle.jpg",
-      "ext": ".jpg",
-      "name": "smartTriangle",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
       "relativeDirectory": "2017-10-27",
       "dev": 1418754601,
       "mode": 33206,
@@ -2244,63 +2007,43 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 281474979305249,
-      "atimeMs": 1515111104170.2456,
-      "mtimeMs": 1515103687877.8882,
-      "ctimeMs": 1515103687877.8882,
-      "birthtimeMs": 1515111104170.2456,
-      "atime": "2018-01-05T00:11:44.170Z",
-      "mtime": "2018-01-04T22:08:07.878Z",
-      "ctime": "2018-01-04T22:08:07.878Z",
-      "birthtime": "2018-01-05T00:11:44.170Z"
+      "ino": 281474979305248,
+      "atimeMs": 1515111104168.2673,
+      "mtimeMs": 1515103687874.621,
+      "ctimeMs": 1515103687874.621,
+      "birthtimeMs": 1515111104168.2673,
+      "atime": "2018-01-05T00:11:44.168Z",
+      "mtime": "2018-01-04T22:08:07.875Z",
+      "ctime": "2018-01-04T22:08:07.875Z",
+      "birthtime": "2018-01-05T00:11:44.168Z"
     },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file",
-      "internal": {
-        "contentDigest": "224143b7440585785b0d46827cc65219",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file",
-      "internal": {
-        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file",
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
       "children": [
-        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp"
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
-        "mediaType": "image/jpeg",
+        "contentDigest": "106431643cefe73c57431243349d2ccf",
+        "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg",
-      "relativePath": "2017-10-28/lekoarts.jpg",
-      "extension": "jpg",
-      "size": 472968,
-      "prettySize": "473 kB",
-      "modifiedTime": "2018-01-04T22:08:07.882Z",
-      "accessTime": "2018-01-05T00:11:44.180Z",
-      "changeTime": "2018-01-04T22:08:07.882Z",
-      "birthTime": "2018-01-05T00:11:44.180Z",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md",
+      "relativePath": "2017-10-28/index.md",
+      "extension": "md",
+      "size": 178,
+      "prettySize": "178 B",
+      "modifiedTime": "2018-01-05T01:38:13.774Z",
+      "accessTime": "2018-01-05T00:11:44.178Z",
+      "changeTime": "2018-01-05T01:38:13.774Z",
+      "birthTime": "2018-01-05T00:11:44.178Z",
       "root": "C:/",
       "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28",
-      "base": "lekoarts.jpg",
-      "ext": ".jpg",
-      "name": "lekoarts",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
       "relativeDirectory": "2017-10-28",
       "dev": 1418754601,
       "mode": 33206,
@@ -2308,66 +2051,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 281474979305252,
-      "atimeMs": 1515111104180.272,
-      "mtimeMs": 1515103687881.718,
-      "ctimeMs": 1515103687881.718,
-      "birthtimeMs": 1515111104180.272,
-      "atime": "2018-01-05T00:11:44.180Z",
-      "mtime": "2018-01-04T22:08:07.882Z",
-      "ctime": "2018-01-04T22:08:07.882Z",
-      "birthtime": "2018-01-05T00:11:44.180Z"
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file",
-      "internal": {
-        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05 absPath of file": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05 absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "ce76c3bf2f3030470ef0186a772f3b93",
-        "type": "Directory",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "projects",
-      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05",
-      "relativePath": "2018-01-05",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-01-05T01:31:00.675Z",
-      "accessTime": "2018-01-05T01:31:00.675Z",
-      "changeTime": "2018-01-05T01:33:18.594Z",
-      "birthTime": "2018-01-05T01:28:28.488Z",
-      "root": "C:/",
-      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects",
-      "base": "2018-01-05",
-      "ext": "",
-      "name": "2018-01-05",
-      "relativeDirectory": "",
-      "dev": 1418754601,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 12103424001203264,
-      "atimeMs": 1515115860675.3767,
-      "mtimeMs": 1515115860675.3767,
-      "ctimeMs": 1515115998593.7754,
-      "birthtimeMs": 1515115708487.6016,
-      "atime": "2018-01-05T01:31:00.675Z",
-      "mtime": "2018-01-05T01:31:00.675Z",
-      "ctime": "2018-01-05T01:33:18.594Z",
-      "birthtime": "2018-01-05T01:28:28.488Z"
+      "ino": 281474979305251,
+      "atimeMs": 1515111104178.294,
+      "mtimeMs": 1515116293774.2854,
+      "ctimeMs": 1515116293774.2854,
+      "birthtimeMs": 1515111104178.294,
+      "atime": "2018-01-05T00:11:44.178Z",
+      "mtime": "2018-01-05T01:38:13.774Z",
+      "ctime": "2018-01-05T01:38:13.774Z",
+      "birthtime": "2018-01-05T00:11:44.178Z"
     },
     "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file": {
       "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file",
@@ -2455,283 +2147,49 @@
       "ctime": "2018-01-05T01:29:15.337Z",
       "birthtime": "2018-01-05T01:29:15.334Z"
     },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file",
-      "internal": {
-        "content": "---\r\nclient: \"LekoArts\"\r\ntitle: \"123!\"\r\ncover: \"./test.png\"\r\ndate: \"2018-01-05\"\r\nservice: \"Theme\"\r\n---\r\n# Description\r\n\r\nGif!\r\n![](./loading.gif)",
-        "contentDigest": "32c6a73b1afb60c08891d9a764ff82b0",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "123!",
-        "client": "LekoArts",
-        "cover": "./test.png",
-        "date": "2018-01-05",
-        "service": "Theme",
-        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file",
-        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file"
-      },
-      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md",
-      "fields": {
-        "slug": "/123"
-      }
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file",
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file",
       "children": [
-        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp"
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
         "mediaType": "image/jpeg",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "projects",
-      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg",
-      "relativePath": "2018-01-05/lekoarts.jpg",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg",
+      "relativePath": "2017-10-25/blobSphere.jpg",
       "extension": "jpg",
-      "size": 472968,
-      "prettySize": "473 kB",
-      "modifiedTime": "2018-01-05T01:31:00.679Z",
-      "accessTime": "2018-01-05T01:31:00.675Z",
-      "changeTime": "2018-01-05T01:31:00.679Z",
-      "birthTime": "2018-01-05T01:31:00.675Z",
+      "size": 209762,
+      "prettySize": "210 kB",
+      "modifiedTime": "2018-01-04T22:08:07.870Z",
+      "accessTime": "2018-01-05T00:11:44.146Z",
+      "changeTime": "2018-01-04T22:08:07.870Z",
+      "birthTime": "2018-01-05T00:11:44.146Z",
       "root": "C:/",
-      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05",
-      "base": "lekoarts.jpg",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25",
+      "base": "blobSphere.jpg",
       "ext": ".jpg",
-      "name": "lekoarts",
-      "relativeDirectory": "2018-01-05",
+      "name": "blobSphere",
+      "relativeDirectory": "2017-10-25",
       "dev": 1418754601,
       "mode": 33206,
       "nlink": 1,
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1688849862908998,
-      "atimeMs": 1515115860675.3767,
-      "mtimeMs": 1515115860679.4175,
-      "ctimeMs": 1515115860679.4175,
-      "birthtimeMs": 1515115860675.3767,
-      "atime": "2018-01-05T01:31:00.675Z",
-      "mtime": "2018-01-05T01:31:00.679Z",
-      "ctime": "2018-01-05T01:31:00.679Z",
-      "birthtime": "2018-01-05T01:31:00.675Z"
-    },
-    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp": {
-      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file",
-      "internal": {
-        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "SitePage /smart-triangle-make-triangles-smart": {
-      "layout": "index",
-      "jsonName": "smart-triangle-make-triangles-smart.json",
-      "internalComponentName": "ComponentSmartTriangleMakeTrianglesSmart",
-      "path": "/smart-triangle-make-triangles-smart",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
-      "componentChunkName": "component---src-templates-project-jsx",
-      "context": {
-        "slug": "/smart-triangle-make-triangles-smart"
-      },
-      "updatedAt": 1515116668874,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
-      "id": "SitePage /smart-triangle-make-triangles-smart",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e932e40e8a822635406e0f510bc8a57e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /leko-arts-your-theme-creator": {
-      "layout": "index",
-      "jsonName": "leko-arts-your-theme-creator.json",
-      "internalComponentName": "ComponentLekoArtsYourThemeCreator",
-      "path": "/leko-arts-your-theme-creator",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
-      "componentChunkName": "component---src-templates-project-jsx",
-      "context": {
-        "slug": "/leko-arts-your-theme-creator"
-      },
-      "updatedAt": 1515116668874,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
-      "id": "SitePage /leko-arts-your-theme-creator",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0bf0e1cc5d9936c4579c6c21126ea936",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /cube-round-make-cubes-round": {
-      "layout": "index",
-      "jsonName": "cube-round-make-cubes-round.json",
-      "internalComponentName": "ComponentCubeRoundMakeCubesRound",
-      "path": "/cube-round-make-cubes-round",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
-      "componentChunkName": "component---src-templates-project-jsx",
-      "context": {
-        "slug": "/cube-round-make-cubes-round"
-      },
-      "updatedAt": 1515116668875,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
-      "id": "SitePage /cube-round-make-cubes-round",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ac6bb9caf2ce43b468f234dfe41143cb",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blob-sphere-make-spheres-blob": {
-      "layout": "index",
-      "jsonName": "blob-sphere-make-spheres-blob.json",
-      "internalComponentName": "ComponentBlobSphereMakeSpheresBlob",
-      "path": "/blob-sphere-make-spheres-blob",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
-      "componentChunkName": "component---src-templates-project-jsx",
-      "context": {
-        "slug": "/blob-sphere-make-spheres-blob"
-      },
-      "updatedAt": 1515116668875,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
-      "id": "SitePage /blob-sphere-make-spheres-blob",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e80bfeadee330ead94eb10516b3add38",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
-      "componentChunkName": "component---src-pages-404-jsx",
-      "context": {},
-      "updatedAt": 1515116012758,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8c93a742825a4cd86cd178e0a3dd6c0d",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about/": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
-      "componentChunkName": "component---src-pages-about-jsx",
-      "context": {},
-      "updatedAt": 1515116012760,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0a3de7c067cd0123861ebd1900d40652",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
-      "componentChunkName": "component---src-pages-contact-jsx",
-      "context": {},
-      "updatedAt": 1515116012761,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
-      "id": "SitePage /contact/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ba21de10b3d0ef3b596276acce74dbbe",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
-      "componentChunkName": "component---src-pages-404-jsx",
-      "context": {},
-      "updatedAt": 1515116012762,
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9b2e66a403d7d1972a0afc15bbdffb96",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
-      "componentChunkName": "component---src-pages-index-jsx",
-      "context": {},
-      "updatedAt": 1515116012765,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "efba9011065edf916ef44550e3f7faa6",
-        "owner": "internal-data-bridge"
-      }
+      "ino": 281474979305242,
+      "atimeMs": 1515111104145.9568,
+      "mtimeMs": 1515103687869.7268,
+      "ctimeMs": 1515103687869.7268,
+      "birthtimeMs": 1515111104145.9568,
+      "atime": "2018-01-05T00:11:44.146Z",
+      "mtime": "2018-01-04T22:08:07.870Z",
+      "ctime": "2018-01-04T22:08:07.870Z",
+      "birthtime": "2018-01-05T00:11:44.146Z"
     },
     "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file": {
       "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file",
@@ -2777,6 +2235,60 @@
       "ctime": "2018-01-05T01:40:33.116Z",
       "birthtime": "2018-01-05T01:40:25.674Z"
     },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "224143b7440585785b0d46827cc65219",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg",
+      "relativePath": "2017-10-26/cubeRound.jpg",
+      "extension": "jpg",
+      "size": 292267,
+      "prettySize": "292 kB",
+      "modifiedTime": "2018-01-04T22:08:07.873Z",
+      "accessTime": "2018-01-05T00:11:44.155Z",
+      "changeTime": "2018-01-04T22:08:07.873Z",
+      "birthTime": "2018-01-05T00:11:44.155Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26",
+      "base": "cubeRound.jpg",
+      "ext": ".jpg",
+      "name": "cubeRound",
+      "relativeDirectory": "2017-10-26",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305245,
+      "atimeMs": 1515111104155.2056,
+      "mtimeMs": 1515103687872.7227,
+      "ctimeMs": 1515103687872.7227,
+      "birthtimeMs": 1515111104155.2056,
+      "atime": "2018-01-05T00:11:44.155Z",
+      "mtime": "2018-01-04T22:08:07.873Z",
+      "ctime": "2018-01-04T22:08:07.873Z",
+      "birthtime": "2018-01-05T00:11:44.155Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file",
+      "internal": {
+        "contentDigest": "6fddcc062738759fdf558ef34a022b15",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file >> ImageSharp": {
       "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file >> ImageSharp",
       "children": [],
@@ -2785,6 +2297,405 @@
         "contentDigest": "df190b59462577731d0839ab96145f88",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"CubeRound\"\r\ntitle: \"CubeRound - Make Cubes round!\"\r\ncover: \"./cubeRound.jpg\"\r\ndate: \"2017-10-26\"\r\nservice: \"Website\"\r\n---\r\n# Description\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "contentDigest": "852eab83845689e1fea36a6027eab4e0",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "CubeRound - Make Cubes round!",
+        "client": "CubeRound",
+        "cover": "./cubeRound.jpg",
+        "date": "2017-10-26",
+        "service": "Website",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md",
+      "fields": {
+        "slug": "/cube-round-make-cubes-round"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"BlobSphere\"\r\ntitle: \"BlobSphere - Make Spheres blob!\"\r\ncover: \"./blobSphere.jpg\"\r\ndate: \"2017-10-25\"\r\nservice: \"App Design\"\r\n---\r\n# Description\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "contentDigest": "01bd22a0b9c2072c85df775d884c9d7f",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "BlobSphere - Make Spheres blob!",
+        "client": "BlobSphere",
+        "cover": "./blobSphere.jpg",
+        "date": "2017-10-25",
+        "service": "App Design",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md",
+      "fields": {
+        "slug": "/blob-sphere-make-spheres-blob"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"SmartTriangle\"\r\ntitle: \"SmartTriangle - Make Triangles smart!\"\r\ncover: \"./smartTriangle.jpg\"\r\ndate: \"2017-10-27\"\r\nservice: \"Art Direction\"\r\n---\r\n# Description\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands.",
+        "contentDigest": "0ef514789302bf2e52d1d1091e9d8159",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "SmartTriangle - Make Triangles smart!",
+        "client": "SmartTriangle",
+        "cover": "./smartTriangle.jpg",
+        "date": "2017-10-27",
+        "service": "Art Direction",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md",
+      "fields": {
+        "slug": "/smart-triangle-make-triangles-smart"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"LekoArts\"\r\ntitle: \"LekoArts - Your theme creator!\"\r\ncover: \"./lekoarts.jpg\"\r\ndate: \"2017-10-28\"\r\nservice: \"Theme\"\r\n---\r\n# Description\r\n\r\nTest\r\n\r\n![](./lekoarts.jpg)",
+        "contentDigest": "a7a5ac3d4b62888918c7a42e383478c2",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "LekoArts - Your theme creator!",
+        "client": "LekoArts",
+        "cover": "./lekoarts.jpg",
+        "date": "2017-10-28",
+        "service": "Theme",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md",
+      "fields": {
+        "slug": "/leko-arts-your-theme-creator"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file",
+      "internal": {
+        "contentDigest": "224143b7440585785b0d46827cc65219",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file",
+      "internal": {
+        "content": "---\r\nclient: \"LekoArts\"\r\ntitle: \"123!\"\r\ncover: \"./test.png\"\r\ndate: \"2018-01-05\"\r\nservice: \"Theme\"\r\n---\r\n# Description\r\n\r\nGif!\r\n![](./loading.gif)",
+        "contentDigest": "32c6a73b1afb60c08891d9a764ff82b0",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "123!",
+        "client": "LekoArts",
+        "cover": "./test.png",
+        "date": "2018-01-05",
+        "service": "Theme",
+        "_PARENT": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file",
+        "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md",
+      "fields": {
+        "slug": "/123"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg",
+      "relativePath": "2017-10-27/smartTriangle.jpg",
+      "extension": "jpg",
+      "size": 404825,
+      "prettySize": "405 kB",
+      "modifiedTime": "2018-01-04T22:08:07.878Z",
+      "accessTime": "2018-01-05T00:11:44.170Z",
+      "changeTime": "2018-01-04T22:08:07.878Z",
+      "birthTime": "2018-01-05T00:11:44.170Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27",
+      "base": "smartTriangle.jpg",
+      "ext": ".jpg",
+      "name": "smartTriangle",
+      "relativeDirectory": "2017-10-27",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305249,
+      "atimeMs": 1515111104170.2456,
+      "mtimeMs": 1515103687877.8882,
+      "ctimeMs": 1515103687877.8882,
+      "birthtimeMs": 1515111104170.2456,
+      "atime": "2018-01-05T00:11:44.170Z",
+      "mtime": "2018-01-04T22:08:07.878Z",
+      "ctime": "2018-01-04T22:08:07.878Z",
+      "birthtime": "2018-01-05T00:11:44.170Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg",
+      "relativePath": "2017-10-28/lekoarts.jpg",
+      "extension": "jpg",
+      "size": 472968,
+      "prettySize": "473 kB",
+      "modifiedTime": "2018-01-04T22:08:07.882Z",
+      "accessTime": "2018-01-05T00:11:44.180Z",
+      "changeTime": "2018-01-04T22:08:07.882Z",
+      "birthTime": "2018-01-05T00:11:44.180Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28",
+      "base": "lekoarts.jpg",
+      "ext": ".jpg",
+      "name": "lekoarts",
+      "relativeDirectory": "2017-10-28",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474979305252,
+      "atimeMs": 1515111104180.272,
+      "mtimeMs": 1515103687881.718,
+      "ctimeMs": 1515103687881.718,
+      "birthtimeMs": 1515111104180.272,
+      "atime": "2018-01-05T00:11:44.180Z",
+      "mtime": "2018-01-04T22:08:07.882Z",
+      "ctime": "2018-01-04T22:08:07.882Z",
+      "birthtime": "2018-01-05T00:11:44.180Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file",
+      "children": [
+        "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "projects",
+      "absolutePath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg",
+      "relativePath": "2018-01-05/lekoarts.jpg",
+      "extension": "jpg",
+      "size": 472968,
+      "prettySize": "473 kB",
+      "modifiedTime": "2018-01-05T01:31:00.679Z",
+      "accessTime": "2018-01-05T01:31:00.675Z",
+      "changeTime": "2018-01-05T01:31:00.679Z",
+      "birthTime": "2018-01-05T01:31:00.675Z",
+      "root": "C:/",
+      "dir": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05",
+      "base": "lekoarts.jpg",
+      "ext": ".jpg",
+      "name": "lekoarts",
+      "relativeDirectory": "2018-01-05",
+      "dev": 1418754601,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849862908998,
+      "atimeMs": 1515115860675.3767,
+      "mtimeMs": 1515115860679.4175,
+      "ctimeMs": 1515115860679.4175,
+      "birthtimeMs": 1515115860675.3767,
+      "atime": "2018-01-05T01:31:00.675Z",
+      "mtime": "2018-01-05T01:31:00.679Z",
+      "ctime": "2018-01-05T01:31:00.679Z",
+      "birthtime": "2018-01-05T01:31:00.675Z"
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file",
+      "internal": {
+        "contentDigest": "3cde51e22072224ef24b6f5b0fe45a1f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file",
+      "internal": {
+        "contentDigest": "b08fd96a9f0f169a01466956bb867132",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /cube-round-make-cubes-round": {
+      "layout": "index",
+      "jsonName": "cube-round-make-cubes-round.json",
+      "internalComponentName": "ComponentCubeRoundMakeCubesRound",
+      "path": "/cube-round-make-cubes-round",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/cube-round-make-cubes-round"
+      },
+      "updatedAt": 1515119673668,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "id": "SitePage /cube-round-make-cubes-round",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "60fc6a81973e0f689e501497e7a0add1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blob-sphere-make-spheres-blob": {
+      "layout": "index",
+      "jsonName": "blob-sphere-make-spheres-blob.json",
+      "internalComponentName": "ComponentBlobSphereMakeSpheresBlob",
+      "path": "/blob-sphere-make-spheres-blob",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/blob-sphere-make-spheres-blob"
+      },
+      "updatedAt": 1515119673669,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "id": "SitePage /blob-sphere-make-spheres-blob",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6ff28dba3b17e448f6381f02872320b9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /smart-triangle-make-triangles-smart": {
+      "layout": "index",
+      "jsonName": "smart-triangle-make-triangles-smart.json",
+      "internalComponentName": "ComponentSmartTriangleMakeTrianglesSmart",
+      "path": "/smart-triangle-make-triangles-smart",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/smart-triangle-make-triangles-smart"
+      },
+      "updatedAt": 1515119673669,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "id": "SitePage /smart-triangle-make-triangles-smart",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "645538baee0be06cefc7c4c92a9c43ea",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /leko-arts-your-theme-creator": {
+      "layout": "index",
+      "jsonName": "leko-arts-your-theme-creator.json",
+      "internalComponentName": "ComponentLekoArtsYourThemeCreator",
+      "path": "/leko-arts-your-theme-creator",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "componentChunkName": "component---src-templates-project-jsx",
+      "context": {
+        "slug": "/leko-arts-your-theme-creator"
+      },
+      "updatedAt": 1515119673669,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
+      "id": "SitePage /leko-arts-your-theme-creator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ebf62ff3730af3f4b0db52186a4ea15c",
+        "owner": "internal-data-bridge"
       }
     },
     "SitePage /123": {
@@ -2797,7 +2708,7 @@
       "context": {
         "slug": "/123"
       },
-      "updatedAt": 1515116668875,
+      "updatedAt": 1515119673670,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
@@ -2806,81 +2717,176 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "462f7a41b268ee75228f8541f92320a5",
+        "contentDigest": "a68958f901d489822ca8594dad9eb75e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "updatedAt": 1515119673683,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "187fe5568bc78278cc2bb7c523ebfa4c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
+      "componentChunkName": "component---src-pages-about-jsx",
+      "context": {},
+      "updatedAt": 1515119673684,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c411e3583629283f40e113736e3d581d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
+      "componentChunkName": "component---src-pages-contact-jsx",
+      "context": {},
+      "updatedAt": 1515119673685,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b1b983b4d4c9f2c49cbc519519e966ff",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "updatedAt": 1515119673686,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1604c4c69b02f372a022bbcb4a5dcf75",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "updatedAt": 1515119673689,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8677202ee8c061dcd80b10239bfebeee",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4c71d0599f789b5c9f1c7bfc6124c4fa"
+    "PLUGINS_HASH": "e3df4bed4227e76da1889fd6f968cda1"
   },
   "componentDataDependencies": {
     "nodes": {
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file": [
-        "/",
-        "/leko-arts-your-theme-creator"
-      ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp": [
-        "/",
-        "/leko-arts-your-theme-creator"
-      ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file": [
-        "/",
-        "/smart-triangle-make-triangles-smart"
-      ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp": [
-        "/",
-        "/smart-triangle-make-triangles-smart"
-      ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file": [
-        "/",
-        "/cube-round-make-cubes-round"
-      ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp": [
-        "/",
-        "/cube-round-make-cubes-round"
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark": [
+        "/blob-sphere-make-spheres-blob"
       ],
       "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file": [
-        "/",
-        "/blob-sphere-make-spheres-blob"
+        "/blob-sphere-make-spheres-blob",
+        "/"
       ],
       "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/blobSphere.jpg absPath of file >> ImageSharp": [
-        "/",
-        "/blob-sphere-make-spheres-blob"
+        "/blob-sphere-make-spheres-blob",
+        "/"
       ],
       "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/index.md absPath of file >>> MarkdownRemark": [
         "/cube-round-make-cubes-round"
       ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark": [
-        "/leko-arts-your-theme-creator"
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file": [
+        "/cube-round-make-cubes-round",
+        "/"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-26/cubeRound.jpg absPath of file >> ImageSharp": [
+        "/cube-round-make-cubes-round",
+        "/"
       ],
       "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/index.md absPath of file >>> MarkdownRemark": [
         "/smart-triangle-make-triangles-smart"
       ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-25/index.md absPath of file >>> MarkdownRemark": [
-        "/blob-sphere-make-spheres-blob"
-      ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file": [
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file": [
+        "/smart-triangle-make-triangles-smart",
         "/"
       ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/lekoarts.jpg absPath of file >> ImageSharp": [
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-27/smartTriangle.jpg absPath of file >> ImageSharp": [
+        "/smart-triangle-make-triangles-smart",
         "/"
       ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/loading.gif absPath of file": [
-        "/",
-        "/123"
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/index.md absPath of file >>> MarkdownRemark": [
+        "/leko-arts-your-theme-creator"
       ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file": [
-        "/",
-        "/123"
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file": [
+        "/leko-arts-your-theme-creator",
+        "/"
       ],
-      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file >> ImageSharp": [
-        "/",
-        "/123"
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2017-10-28/lekoarts.jpg absPath of file >> ImageSharp": [
+        "/leko-arts-your-theme-creator",
+        "/"
       ],
       "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/index.md absPath of file >>> MarkdownRemark": [
         "/123"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file": [
+        "/123",
+        "/"
+      ],
+      "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/content/projects/2018-01-05/test.png absPath of file >> ImageSharp": [
+        "/123",
+        "/"
       ]
     },
     "connections": {
