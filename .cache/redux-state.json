@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1515113773646,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "4964bb4eadbf2d990c380dd5bed333f1",
         "owner": "internal-data-bridge"
       }
     },
@@ -1599,14 +1609,16 @@
       "siteMetadata": {
         "siteUrl": "https://embalmer-glues-43220.netlify.com"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-05T00:18:44.118Z",
+      "buildTime": "2018-01-05T00:56:09.197Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9c06caa020522cf88006b2013f58c680",
+        "contentDigest": "81454ea1d5c6736e8d0abae76d624eac",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2316,27 +2328,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "layout": "index",
-      "jsonName": "offline-plugin-app-shell-fallback.json",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "updatedAt": 1515111528816,
-      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
-      "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e2f8c00c5491d70494c5f1190a66f824",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /smart-triangle-make-triangles-smart": {
       "layout": "index",
       "jsonName": "smart-triangle-make-triangles-smart.json",
@@ -2347,7 +2338,7 @@
       "context": {
         "slug": "/smart-triangle-make-triangles-smart"
       },
-      "updatedAt": 1515111528834,
+      "updatedAt": 1515113773664,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
@@ -2356,7 +2347,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dcd2a6b3579c9eb7e6ee8ad6c633f4df",
+        "contentDigest": "80890841a8e725f31a31b88d65cf9237",
         "owner": "internal-data-bridge"
       }
     },
@@ -2370,7 +2361,7 @@
       "context": {
         "slug": "/leko-arts-your-theme-creator"
       },
-      "updatedAt": 1515111528835,
+      "updatedAt": 1515113773664,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
@@ -2379,7 +2370,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "87952ccec07a6643be0e8f9ffa07487e",
+        "contentDigest": "c68e77d4128b2b961718209f5a7ee9fe",
         "owner": "internal-data-bridge"
       }
     },
@@ -2393,7 +2384,7 @@
       "context": {
         "slug": "/cube-round-make-cubes-round"
       },
-      "updatedAt": 1515111528835,
+      "updatedAt": 1515113773665,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
@@ -2402,7 +2393,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1deeb7de4b0afc85716c6213b9b064a6",
+        "contentDigest": "f81cc43183814c3fcba7c03c21c42758",
         "owner": "internal-data-bridge"
       }
     },
@@ -2416,7 +2407,7 @@
       "context": {
         "slug": "/blob-sphere-make-spheres-blob"
       },
-      "updatedAt": 1515111528835,
+      "updatedAt": 1515113773665,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/templates/project.jsx",
@@ -2425,7 +2416,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0cba83254f134b4720e52beb2d7aad5b",
+        "contentDigest": "d19b7613fd13df3768dff012024e3422",
         "owner": "internal-data-bridge"
       }
     },
@@ -2437,7 +2428,7 @@
       "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
       "componentChunkName": "component---src-pages-404-jsx",
       "context": {},
-      "updatedAt": 1515111528848,
+      "updatedAt": 1515113773678,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
@@ -2446,28 +2437,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3007ad1ed344910c8d6c1b055587f1b4",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about/": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
-      "componentChunkName": "component---src-pages-about-jsx",
-      "context": {},
-      "updatedAt": 1515111528849,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b558ec5d2492801b6892458d1a7dc09c",
+        "contentDigest": "c85b1d330e6f33f67b082e8e5adb7c24",
         "owner": "internal-data-bridge"
       }
     },
@@ -2479,7 +2449,7 @@
       "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
       "componentChunkName": "component---src-pages-contact-jsx",
       "context": {},
-      "updatedAt": 1515111528850,
+      "updatedAt": 1515113773679,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/contact.jsx",
@@ -2488,28 +2458,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9df5c6e368670a159ed8a792741111ed",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
-      "componentChunkName": "component---src-pages-404-jsx",
-      "context": {},
-      "updatedAt": 1515111528852,
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "52bb7e44cf613ab94c40a22dabe49321",
+        "contentDigest": "f95f94b024373e971654085c2e5fd248",
         "owner": "internal-data-bridge"
       }
     },
@@ -2521,7 +2470,7 @@
       "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
       "componentChunkName": "component---src-pages-index-jsx",
       "context": {},
-      "updatedAt": 1515111528854,
+      "updatedAt": 1515113773680,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/index.jsx",
@@ -2530,7 +2479,49 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d8c1f73501078c59bab53d963a04331",
+        "contentDigest": "9ef5441e2c564cff70bd883aae87d80e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "updatedAt": 1515113773682,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/404.jsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2e33e3c7af3e7b827da592cf597a2a71",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
+      "componentChunkName": "component---src-pages-about-jsx",
+      "context": {},
+      "updatedAt": 1515113773687,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Shane/Documents/GitHub/shanemckenna.ie/src/pages/about.jsx",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "452f7beae949b6ee35776a788106f86c",
         "owner": "internal-data-bridge"
       }
     }

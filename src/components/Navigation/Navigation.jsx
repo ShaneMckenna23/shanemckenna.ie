@@ -56,7 +56,7 @@ export default class Navigation extends Component {
 									<FaGithub />
 								</a>
 								<a
-									href="www.linkedin.com/in/shanemckenna23"
+									href="https://www.linkedin.com/in/shanemckenna23"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
@@ -116,7 +116,7 @@ export default class Navigation extends Component {
 									<FaGithub />
 								</a>
 								<a
-									href="www.linkedin.com/in/shanemckenna23"
+									href="https://www.linkedin.com/in/shanemckenna23"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
