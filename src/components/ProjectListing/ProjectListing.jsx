@@ -6,7 +6,7 @@ import styles from './ProjectListing.module.scss'
 
 export default class ProjectListing extends React.PureComponent {
 	getList() {
-		const List = []
+		let List = []
 		this.props.projectEdges.forEach(projectEdge => {
 			List.push({
 				path: projectEdge.node.fields.slug,
@@ -14,10 +14,13 @@ export default class ProjectListing extends React.PureComponent {
 				client: projectEdge.node.frontmatter.client,
 				service: projectEdge.node.frontmatter.service,
 				imageURL: projectEdge.node.frontmatter.cover.childImageSharp.sizes.src,
+				date: projectEdge.node.frontmatter.date
 			})
 		})
+
 		return List
 	}
+
 	render() {
 		const List = this.getList()
 		return (
