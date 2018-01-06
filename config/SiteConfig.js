@@ -10,7 +10,7 @@ module.exports = {
 	userTwitter: 'shanemckenna23', // Twitter Username
 	// og: Meta Tags
 	ogSiteName: 'shanemckenna23', // Facebook Site Name
-	googleAnalyticsID: 'UA-12345689-1',
+	googleAnalyticsID: 'UA-112034536-1',
 	copyright: 'Copyright © 2018. All rights reserved.', // Copyright in the footer of the site
 	// You can translate these three words into your language if you want. They'll be shown on the project page header
 	client: 'Client',
@@ -23,7 +23,7 @@ module.exports = {
 	themeColor: '#3498DB',
 	backgroundColor: '#2b2e3c',
 	// Settings for typography.js
-	headerFontFamily: 'Merriweather',
+	headerFontFamily: 'Raleway',
 	bodyFontFamily: 'Roboto',
 	baseFontSize: '16px'
 }

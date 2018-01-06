@@ -99,7 +99,8 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date
-        client
+				client
+				test
         service
         cover {
           childImageSharp {
