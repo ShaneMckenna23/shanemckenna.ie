@@ -7,6 +7,8 @@ service: "This is description"
 test: "more data"
 ---
 # Description
-
+Personal Website
+Project deprecated in favor of a new GatsbyJS version
+Moved from create-react-app + travisCI + Firebase to GatsbyJS + Netlify
 Gif!
 ![](./loading.gif)

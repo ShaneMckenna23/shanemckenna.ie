@@ -14,8 +14,11 @@ export default class About extends React.Component {
 				<Container text>
 					<h1>Hi!</h1>
 					<p>
-					I am Shane Mckenna, a twenty one year old student from Kerry. 
-					I study Computer Games Development at the University of Limerick.
+					I am Shane Mckenna, a twenty-one-year-old student from Kerry. 
+					I study Computer Games Development at the University of Limerick. 
+					I have a passion for web development. I find development fun and it 
+					allows me to be creative. I'm constantly learning new and exciting 
+					technologies.
 					</p>
 				</Container>
 				<Footer />
