@@ -51,7 +51,7 @@
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
-    "dev": "gatsby develop -o",
+    "start": "gatsby develop -o",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write src/**/**/*.jsx",
     "lint:js": "eslint --ext .jsx --ignore-pattern public,static ."
   },
