@@ -11,7 +11,7 @@ class Hero extends Component {
 		return (
 			<div className={styles.hero}>
 				<div className={styles.heroSectionText}>
-					<Typist onTypingDone={onHeadingTyped}>Hey! My name is Shane</Typist>
+					<Typist onTypingDone={onHeadingTyped}>Welcome</Typist>
 				</div>
 				<HomePageHeaderButtons headingTyped={typed} />
 			</div>
