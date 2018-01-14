@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import styles from './Hero.module.scss'
 import Typist from 'react-typist'
-import HomePageHeaderButtons from '../HomepageHeaderButtons'
 
 class Hero extends Component {
 	render () {
@@ -11,9 +10,12 @@ class Hero extends Component {
 		return (
 			<div className={styles.hero}>
 				<div className={styles.heroSectionText}>
-					<Typist onTypingDone={onHeadingTyped}>Welcome</Typist>
+					<Typist onTypingDone={onHeadingTyped}>
+						<span> {'CryptoMiner.start()'} </span>
+						<Typist.Backspace count={20} delay={200} />
+						<span>Welcome</span>
+					</Typist>
 				</div>
-				<HomePageHeaderButtons headingTyped={typed} />
 			</div>
 		)
 	}
