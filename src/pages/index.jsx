@@ -6,19 +6,17 @@ import SEO from '../components/SEO/SEO'
 import ProjectListing from '../components/ProjectListing/ProjectListing'
 import HeroContainer from '../components/HeroContainer/HeroContainer'
 import Footer from '../components/Footer/Footer'
-import GuardDog from '../components/GuardDog/GuradDog'
 
 export default class Index extends React.Component {
 	render() {
 		const projectEdges = this.props.data.allMarkdownRemark.edges
 		return (
 			<div className="container index-container">
-        <GuardDog/>
 				<Helmet>
 					<title>{config.siteTitle}</title>
 				</Helmet>
 				<div>
-          <HeroContainer/>
+					<HeroContainer/>
 					<ProjectListing projectEdges={projectEdges} />
 				</div>
 				<Footer />
