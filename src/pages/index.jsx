@@ -34,8 +34,8 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            service
-            client
+            description
+            title
             cover {
               childImageSharp {
                 sizes(

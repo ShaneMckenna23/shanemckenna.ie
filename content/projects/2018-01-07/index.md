@@ -1,12 +1,9 @@
 ---
-client: "React Components"
-title: "React Components"
-cover: "./test.png"
+title: "Spotify 2017 Playlist"
+cover: "./2017-final.jpg"
 date: "2018-01-07"
-service: "This is description"
-test: "more data"
+description: "Spotify playlist of my favourite songs from 2017"
 ---
-# Description
+# Spotify 🎧🔥 
 
-Gif!
-![](./loading.gif)
+<iframe src="https://open.spotify.com/embed/user/nuclarpenguin/playlist/0JKLfzfJq22PoZyjUzaW9s" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>

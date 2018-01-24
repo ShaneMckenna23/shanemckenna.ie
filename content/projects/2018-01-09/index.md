@@ -1,12 +1,10 @@
 ---
-client: "Sticker Bomb Bear"
-title: "Sticker Bomb Bear"
-cover: "./bear-wall-art.jpg"
+title: "Logo Design"
+cover: "./logo-making.png"
 date: "2018-01-09"
-service: "I wanted art to decorate my college room so I made this!"
+description: "Simple logo design for your personal website"
 test: "more data"
 ---
 # Description
 
 Gif!
-![](./loading.gif)

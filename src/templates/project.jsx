@@ -36,9 +36,9 @@ export default class Project extends React.Component {
 									</Fade>
 								</div>
 								<div className={styles.information}>
-									<div className={styles.infoBlock}>
+								  <div className={styles.infoBlock}>
 										<Fade up duration={1250} className={styles.top}>
-											{config.client}
+											{config.description}
 										</Fade>
 										<Fade
 											up
@@ -46,7 +46,7 @@ export default class Project extends React.Component {
 											delay={500}
 											className={styles.bottom}
 										>
-											{project.client}
+											{project.description}
 										</Fade>
 									</div>
 									<div className={styles.infoBlock}>
@@ -60,19 +60,6 @@ export default class Project extends React.Component {
 											className={styles.bottom}
 										>
 											{date}
-										</Fade>
-									</div>
-									<div className={styles.infoBlock}>
-										<Fade up duration={1250} className={styles.top}>
-											{config.service}
-										</Fade>
-										<Fade
-											up
-											duration={1250}
-											delay={500}
-											className={styles.bottom}
-										>
-											{project.service}
 										</Fade>
 									</div>
 								</div>
@@ -99,9 +86,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date
-				client
-				test
-        service
+        description
         cover {
           childImageSharp {
             resize(width: 800) {
