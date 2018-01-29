@@ -1,6 +1,6 @@
 # shanemckenna.ie
 
-<a target="_blank"><img alt="Gatsby" src="https://www.gatsbyjs.org/gatsby-negative.svg" width="55"></a>
+<a target="_blank"><img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="55"></a>
 <a target="_blank"><img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"/></a>
 
 ## Gatsby
