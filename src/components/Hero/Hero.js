@@ -11,8 +11,6 @@ class Hero extends Component {
 			<div className={styles.hero}>
 				<div className={styles.heroSectionText}>
 					<Typist onTypingDone={onHeadingTyped}>
-						<span> {'CryptoMiner.start()'} </span>
-						<Typist.Backspace count={20} delay={200} />
 						<span>Welcome</span>
 					</Typist>
 				</div>
