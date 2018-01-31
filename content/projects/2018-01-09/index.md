@@ -3,7 +3,6 @@ title: "Logo Design"
 cover: "./logo-making.png"
 date: "2018-01-09"
 description: "Simple logo design for your personal website"
-test: "more data"
 ---
 ## Tools needed:
 You will need an image editor to create the logo, in this tutorial I will be using Gimp. Which can be downloaded here: https://www.gimp.org/
@@ -18,3 +17,5 @@ After fiddling with the color wheel for awhile I have decided on the colors belo
 
 ####\#77E41C
 ![](./color1.png)
+
+## Step 2: Gimp 
