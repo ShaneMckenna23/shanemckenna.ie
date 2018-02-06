@@ -39,6 +39,7 @@ export default class HTML extends React.Component {
 						name="viewport"
 						content="width=device-width, initial-scale = 1.0, maximum-scale=1.0"
 					/>
+					<link rel="preload" href="/backgrounds/hero.jpg" as="image">
 					{this.props.headComponents}
 					<link rel="shortcut icon" href={favicon} />
 					<link rel="apple-touch-icon" href={appleTouchIcon} />
