@@ -15,7 +15,7 @@ export default class Contact extends React.Component {
 					<h1>E-mail</h1>
 					<p>Shanemckenna23@hotmail.co.uk</p>
 					<h1>Mobile</h1>
-					<p>087-331 4847</p>
+					<p>087-331-4847</p>
 				</Container>
 				<Footer />
 			</div>
