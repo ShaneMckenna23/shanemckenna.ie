@@ -1,7 +1,6 @@
 ---
 title: "Google Kubernetes Engine and Circle Ci"
 cover: "./gcloud-deploy.png"
-date: "2018-01-17"
 description: "Continuous Integration with Google Kubernetes Engine and Circle Ci"
 ---
 ## Introduction
