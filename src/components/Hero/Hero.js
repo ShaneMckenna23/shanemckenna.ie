@@ -11,7 +11,7 @@ class Hero extends Component {
 			<div className={styles.hero}>
 				<div className={styles.heroSectionText}>
 					<Typist onTypingDone={onHeadingTyped}>
-						<Typist.Delay ms={800} />
+						<Typist.Delay ms={500} />
 						<span>Welcome</span>
 					</Typist>
 				</div>
